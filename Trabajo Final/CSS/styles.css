@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    background-image: url(../images/fondo.jpg);
+    background-size: cover;
+}
+.main-title{
+  background-color: chartreuse;  
+}
+h1{color: red;}
+.items-menu{
+    display: flex;
+    justify-content: space-between;
+}
+.container-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    border: 13px;
+    padding: 13px;
+}
+.SW2{
+    margin: 3px;
+    border: 3px;
+    padding: 3px;
+    font-size: large;
+}
+.container-2{
+    margin: 30px;
+    border: 13px;
+    padding: 13px;
+    font-size: large;
+}
+.footer{
+    display: flex;
+    background-color: brown;
+}

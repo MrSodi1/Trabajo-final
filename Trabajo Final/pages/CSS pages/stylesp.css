@@ -1,0 +1,20 @@
+.title{
+    background-color: chartreuse;  
+  }
+h1{color: red;}
+.item-menu{
+    display: flex;
+    justify-content: space-between;
+}
+.OT-img{
+    display: flex;
+    justify-content: space-between;
+}
+.p-img{
+    display: flex;
+    justify-content: space-between;
+}
+.s-img{
+    display: flex;
+    justify-content: space-between;
+}
